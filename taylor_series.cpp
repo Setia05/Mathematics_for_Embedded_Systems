@@ -3,7 +3,7 @@
  * Taylor Series 
  *  Created on: Sep 24, 2019
  *      Author: Shubham
- */
+ */ 
 #include <iostream> //header file included to allow program to perform input and output operations in C++
 #include <cmath>    //header file included to allow program to perform mathematical operations in C++
 
