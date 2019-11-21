@@ -2,7 +2,7 @@
  * LU_decomposition.cpp
  * 
  *  Created on: Oct 23, 2019
- *      Author: Shubham
+ *      Author: Shubham 
  */
 // Assume arrays start with index 1 instead of 0.
 // a: Coef. of matrix A; 2-D array. Upon successful
