@@ -2,7 +2,7 @@
  * epsilon_1.cpp
  *  Created on: Sep 24, 2019
  *      Author: Shubham
- */ 
+ */
 #include<iostream>      //header file included to allow program to perform input and output
 using namespace std;    //cout defined inside std namespace
 float machineEpsilon()  //main function begins
